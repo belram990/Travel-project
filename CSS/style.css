@@ -108,12 +108,19 @@ main h5 {
     color: #272044
 }
 
-
-
 .img-responsive {
     width: 150%;
     height: 100%
 }
+
+
+
+.photos {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
 
 
 .text-center {
@@ -173,6 +180,8 @@ main h5 {
 .grid-3-columns-with-first-narrow {
     grid-template-columns: 1fr 2fr 2fr;
 }
+
+
 
 section {
 
