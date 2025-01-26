@@ -113,7 +113,9 @@ main h5 {
     height: 100%
 }
 
-
+.image-responsive {
+    width: 100%;
+}
 
 .photos {
     text-align: center;
