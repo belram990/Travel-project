@@ -242,11 +242,11 @@ footer a {
 
 @media (max-width:960px) {
     header {
-        padding: 60px 0;
+        padding: 30px 0;
     }
 
     header h1 {
-        font-size: 40px;
+        font-size: 36px;
     }
 
     header h2 {
@@ -272,5 +272,14 @@ footer a {
 
     section {
         padding: 30px;
+    }
+
+    section h3 {
+        font-size: 20px;
+
+    }
+
+    section h2 {
+        font-size: 15px;
     }
 }
